@@ -30,7 +30,7 @@ full-sized keyboards at that, taking up my whole desk. Along the first semester 
 ordered a Keychron K2, although I don't remember the reasons anymore. It was a nice keyboard,
 Keychron was just starting out and I enjoyed the linear reds and the RGB backlight.
 
-![Keychron K2](./.assets/keychron_k2.jpg)
+![Keychron K2](/assets/keychron_k2.jpg)
 
 I felt I had arrived at my destination. 75% was just perfect then, I didn't need the num-pad but all
 the other keys were still there.
@@ -40,7 +40,7 @@ A semester later Keychron released their Q1 series, which I instantly fell in lo
 discovering modding keyboards, including lubing stabilizers and switches, as well as programming
 a keyboard. Although I was still uncomfortable with going below the 75% mark.
 
-![Keychron Q1](./.assets/keychron_q1.jpg)
+![Keychron Q1](/assets/keychron_q1.jpg)
 
 Until I started an internship, where one of my colleagues used a 60%. After a while I got intrigued
 and inquired about it. Turned out it was not using QMK as it usual with programmable keyboards, but
@@ -56,7 +56,7 @@ which I was against, as mentioned in the beginning, I decided for it and ordered
 Phantom Browns - spoiler alert, I still use them everyday -, because I had Phantom Reds in the Q1
 and I liked that they were pre-lubed.
 
-![M60 self-built keyboard](./.assets/m60.jpg)
+![M60 self-built keyboard](/assets/m60.jpg)
 
 As you can see in the second image, I got a wooden case, which quickly turned out to have been a
 mistake, since it didn't really provide any wrist rest and was just unnecessarily making the
@@ -72,11 +72,6 @@ Well, while others tend to switch keyboards, use different switches or keycaps, 
 was a whole community around _ergonomic_ mechanical keyboards, beyond [Microsoft Sculpt](https://www.microsoft.com/en/accessories/products/keyboards/sculpt-ergonomic-desktop?activetab=pivot:overviewtab)
 and other older keyboards by Logitech.
 
-<!-- These kind of keyboards didn't have pesky
-stabilizers that needed to be lubed, or 5,6,7u space bars that you had to watch out when ordering
-keycaps.
--->
-
 A whole new door, or rather rabbit hole, opened. Although I didn't have lots of time to do research,
 I haven't found many pre-built keyboards, instead I discovered a DIY niche, where you would order
 all the parts and assemble the keyboard yourself, and oh boy, let's not get started about layouts,
@@ -86,7 +81,7 @@ soldering everything by yourself, where the component cost could quickly accumul
 of 100+ dollars, or Swiss franks. Therefore I quickly decided on the
 [ZSA Moonlander](https://www.zsa.io/moonlander/), which was recommended to me by a friend, who already owned one.
 
-![Moonlander with OEM](./.assets/moonlander.jpg)
+![Moonlander with OEM](/assets/moonlander.jpg)
 
 I was smitten by its design and customizability, the movable tenting legs and thumb cluster. I felt
 like the _hackerman_ I always dreamed to be. The default mapping was not very usable for me and I
@@ -99,7 +94,7 @@ played around with different ones, OEMs and KF SA, ordered from AliExpress.
 I also noticed that the placement of the thumb cluster was not ideal for my hands, which I would say
 are medium sized.
 
-![Sofle v2.1](./.assets/sofle.jpg)
+![Sofle v2.1](/assets/sofle.jpg)
 
 Mobility with the Moonlander was not an option for me, though they included a very nice pouch, as
 having to set up the height and tenting each time was too much of a hassle so I started looking elsewhere.
