@@ -163,3 +163,4 @@ What's next in terms of posts? Well I could go into my keyboard centric workflow
 and software configuration. I will also try to get more technical in future posts, but no promises!
 
 If you have any preferences, ideas or suggestions, drop me a line at my definitely not shady email address!
+Or just open a discussion on [GitHub](https://github.com/arminveres/arminveres.github.io/discussions) directly.
